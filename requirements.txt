@@ -1,6 +1,0 @@
-channels==2.4.0
-Django==3.0.6
-django_heroku==0.3.1
-selenium==3.141.0
-chatterbot==1.0.5
-chatterbot-corpus==1.2.0
